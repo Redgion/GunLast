@@ -1,0 +1,46 @@
+{
+  "Build": "M9-r4",
+  "UserConfirmedWorking": false,
+  "Files": [
+    {
+      "Path": "Custom/OutlastPistolMod/Config/DefaultEngine.ini",
+      "Sha256": "ffba3b70ca7e293a47e362ba7cd9995794e4901767e1b2e97046353642083808"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Config/DefaultGame.ini",
+      "Sha256": "adeaa86baa65a5a25e4a9a655fc62a287d0ba3b06c515fc97d346b0ac5f4685a"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Config/DefaultInput-Southpaw.ini",
+      "Sha256": "e30e5561ba7b6b2802e6fc5e886170b72633b53bb2b640ac2bce31d939df56fe"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Config/DefaultInput.ini",
+      "Sha256": "ffda46d402aecaec700b3a367c1d6ab247baa80a89ce2e2b52ae8e9bf3f971e5"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Config.ini",
+      "Sha256": "23765c09669fc4374cd91c9b5c0f6bbd25336b2b3c679b72559f83b1ba5857bc"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Content/M9Assets.OLContent",
+      "Sha256": "2d9b2a88c03e0886961762c6471b95b89603406375b2682572c9f276178ab4fa"
+    },
+    {
+      "Path": "Custom/OutlastPistolMod/Content/OutlastPistolMod.OLScript",
+      "Sha256": "dcdf531f66d6c4fbff06dbd27438f6ee9fe23218b929d7f2ce147185d68f7acc"
+    },
+    {
+      "Path": "Level_Launcher.bat",
+      "Sha256": "c2925557df35034a02c425bf9a3af015b8d5bf7586007b33a9627db426191491"
+    },
+    {
+      "Path": "Settings.ini",
+      "Sha256": "424775fd9de6a6f44bd26412553d035c2136f7b43c3379bc7553be4cdb5b755d"
+    },
+    {
+      "Path": "START_M9.cmd",
+      "Sha256": "1ae3a339537b2f0a6b9348069356f6c8690f63750f72dc6cad96a9ad4d91fbe5"
+    }
+  ]
+}

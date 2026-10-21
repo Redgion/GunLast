@@ -1,0 +1,102 @@
+[
+  {
+    "file": "BuildReference/BUILD-r4.log",
+    "sha256": "aa8a944da67105ea62ba074e9468ba62bc97b099841f3a0d08e10720030c0757"
+  },
+  {
+    "file": "BuildReference/DefaultEngine.ini",
+    "sha256": "aa6cc1f4b5f3dbf20bb075c61454340e0cd0be7dbe5b10de483b5e49b540bce5"
+  },
+  {
+    "file": "BuildReference/UDKEngine.ini",
+    "sha256": "2372574cee7a5a0f96283a8c181fea6a8713ff08b895787686e4bdbe064b5d08"
+  },
+  {
+    "file": "BUILD_INSTRUCTIONS.md",
+    "sha256": "c37d84537ecd9f2d183d7ba634c5260bcdffaaad72bc38fd565db3830164e3a6"
+  },
+  {
+    "file": "DistributionScripts/INSTALL.cmd",
+    "sha256": "6ec21bba484d11415404315b6236e2917d04ac41c2bd7cffa8def959e84a5686"
+  },
+  {
+    "file": "DistributionScripts/Install.ps1",
+    "sha256": "03652f9a59a83bdbcc9e21e595644c3a112106b66aa175175f6542633c6513a6"
+  },
+  {
+    "file": "DistributionScripts/Level_Launcher.bat",
+    "sha256": "c2925557df35034a02c425bf9a3af015b8d5bf7586007b33a9627db426191491"
+  },
+  {
+    "file": "DistributionScripts/manifest.json",
+    "sha256": "4e0bb2f1a18e6d94444594d147b1ec1b62204302de0d31c6f20b4a26402e2eb5"
+  },
+  {
+    "file": "DistributionScripts/Settings.ini",
+    "sha256": "424775fd9de6a6f44bd26412553d035c2136f7b43c3379bc7553be4cdb5b755d"
+  },
+  {
+    "file": "DistributionScripts/START_M9.cmd",
+    "sha256": "1ae3a339537b2f0a6b9348069356f6c8690f63750f72dc6cad96a9ad4d91fbe5"
+  },
+  {
+    "file": "README.md",
+    "sha256": "01dafecfccef92be427dfcde66f15ab832a572ccb34b81b2158217aad1f782a6"
+  },
+  {
+    "file": "REVIEW_NOTES.md",
+    "sha256": "5561ff8d7ad0c31a72d5dc0919c30c1637e571f2dafe66060add292d5f5349f3"
+  },
+  {
+    "file": "RuntimeConfig/Config/DefaultEngine.ini",
+    "sha256": "ffba3b70ca7e293a47e362ba7cd9995794e4901767e1b2e97046353642083808"
+  },
+  {
+    "file": "RuntimeConfig/Config/DefaultGame.ini",
+    "sha256": "adeaa86baa65a5a25e4a9a655fc62a287d0ba3b06c515fc97d346b0ac5f4685a"
+  },
+  {
+    "file": "RuntimeConfig/Config/DefaultInput-Southpaw.ini",
+    "sha256": "e30e5561ba7b6b2802e6fc5e886170b72633b53bb2b640ac2bce31d939df56fe"
+  },
+  {
+    "file": "RuntimeConfig/Config/DefaultInput.ini",
+    "sha256": "ffda46d402aecaec700b3a367c1d6ab247baa80a89ce2e2b52ae8e9bf3f971e5"
+  },
+  {
+    "file": "RuntimeConfig/Config.ini",
+    "sha256": "23765c09669fc4374cd91c9b5c0f6bbd25336b2b3c679b72559f83b1ba5857bc"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/M9Corpse.uc",
+    "sha256": "04e52a647ee8bcb8e655dc3ff99a8f22055e7f00cf30f5acfb790a56ee3b4a7a"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/M9MaterialLibrary.uc",
+    "sha256": "309b81d3be3014c76e80f01fac9f2bb0a2486d9b03ace63c13c3283845db00b9"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/M9WorldProp.uc",
+    "sha256": "741f4f15899539cc4e8f4703e5066ab0a472de213ba6520cd2a1c46123626657"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/M9WorldReplacements.uc",
+    "sha256": "5be00642b57b03a67300cedd58bc018f3414190d4a7cda1cc6bd1b98cc05d45f"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/PistolGame.uc",
+    "sha256": "d0c0ff37963dac4fddec996fd1cbc81bf5289de179f8a79ee1cb5fdf467fd09b"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/PistolHUD.uc",
+    "sha256": "55d9377d8ec672a1d4574ed48d6fb2320d5ec04c1a2a35c7e1c39f762c4b1a82"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/PistolPlayerController.uc",
+    "sha256": "3a27a6ab966b8bbd781feab9c50dfb345aeafffa6f43b71e249cc448e464cdf2"
+  },
+  {
+    "file": "UnrealScript/OutlastPistolMod/Classes/PistolViewModel.uc",
+    "sha256": "876df5737893c84e1240cc3810445749529dc49f0e989d7f965d05b8a3204476"
+  }
+]

@@ -1,0 +1,34 @@
+Init: Version: 10907
+Init: Epic Internal: 0
+Init: Compiled (32-bit): Jul  1 2013 14:58:58
+Init: Command line:  -unattended -nopause
+Init: Base directory: [SDK_ROOT]\Binaries\Win32\
+Init: Character set: Unicode
+Log: Executing Class UnrealEd.MakeCommandlet
+--------------------Core - Release--------------------
+--------------------Engine - Release--------------------
+--------------------IpDrv - Release--------------------
+--------------------GFxUI - Release--------------------
+--------------------GameFramework - Release--------------------
+--------------------UnrealEd - Release--------------------
+--------------------GFxUIEditor - Release--------------------
+--------------------WinDrv - Release--------------------
+--------------------OnlineSubsystemPC - Release--------------------
+--------------------OnlineSubsystemSteamworks - Release--------------------
+--------------------OnlineSubsystemGameCenter - Release--------------------
+--------------------SubstanceAir - Release--------------------
+--------------------SubstanceAirEd - Release--------------------
+--------------------UDKBase - Release--------------------
+--------------------OLGame - Release--------------------
+--------------------OLCustomPlayerModelSDK - Release--------------------
+--------------------SpeedrunHelper - Release--------------------
+--------------------SHModifiers - Release--------------------
+--------------------TAS - Release--------------------
+--------------------OutlastPistolMod - Release--------------------
+Package OutlastPistolMod changed, recompiling
+Analyzing...
+Scripts successfully compiled - saving package '[SDK_ROOT]\Binaries\Win32\..\..\UDKGame\Script\OutlastPistolMod.u'
+
+Success - 0 error(s), 0 warning(s)
+
+Execution of commandlet took:  2.35 seconds
