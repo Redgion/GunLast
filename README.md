@@ -6,6 +6,17 @@ This package contains the eight UnrealScript classes used by the r4 distribution
 
 The Nexus upload may use public version 1; r4 is the internal build identifier. The uploader must confirm which uploaded archive is under review. Distribution manifest hashes identify the payload.
 
+## Linux / Fedora / Steam Proton (preview)
+
+See [the Russian installation guide](Linux/README.ru.md) for the Python 3.11+
+installer, Steam launch wrapper, recovery/uninstall, payload requirements and
+test limits. Run `python3 Linux/gunlast.py doctor` to inspect the installed game.
+The installer requires the separate, original M9-r4 `Files` payload and the
+Windows Win64 version of Outlast selected through Steam Proton. Native Linux
+Outlast is not supported. Installer tests pass on Fedora; in-game Proton support
+is **not yet verified**. The tooling archive does not include the missing assets
+or compiled script and is not a complete playable release.
+
 ## Contents
 
 - UnrealScript/OutlastPistolMod/Classes: all eight mod classes.
