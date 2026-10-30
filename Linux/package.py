@@ -11,7 +11,8 @@ def main():
     parser.add_argument('--output', type=Path, required=True)
     args = parser.parse_args()
     root = Path(__file__).resolve().parents[1]
-    names = ['README.md', 'REVIEW_NOTES.md', 'BUILD_INSTRUCTIONS.md']
+    names = ['README.md', 'REVIEW_NOTES.md', 'BUILD_INSTRUCTIONS.md',
+             'DistributionScripts/manifest.json']
     names += ['Linux/' + name for name in ('gunlast.py', 'manifest.json', 'README.ru.md',
                                            'package.py', 'tests/test_gunlast.py')]
     args.output.parent.mkdir(parents=True, exist_ok=True)
